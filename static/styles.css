@@ -1,0 +1,145 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+v2.0 | 20110126
+License: none (public domain)
+*/
+a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}html{line-height:1}body{line-height:inherit;}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:'';content:none}table{border-collapse:collapse;border-spacing:0}
+
+/* Base Styles */
+html {
+  font-size: 1em;
+  font-style: Helvetica;
+  line-height: 1.2em;
+}
+
+h1 {
+  font-size: 2.5em;
+  line-height: 1.2em;
+  margin: 2em 0 1em 0;
+  text-align: center;
+}
+
+#search-box {
+  align-self: center;
+  display: block;
+  margin: 0 5em;
+}
+
+#query-box {
+  display: block;
+  height: 2em;
+  margin: 1em auto;
+  width: 40%;
+}
+
+#search-button {
+  display: block;
+  font-size: 1em;
+  height: 2em;
+  margin: 0 auto;
+  width: 10%;
+}
+
+.bor_1 {
+  border: solid 0.1em black;
+}
+
+.cen {
+  text-align: center;
+}
+
+.pad_5 {
+  padding: 0.5em;
+}
+
+#search-results {
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  margin: 1em;
+}
+
+.c1 {
+  grid-column: 1 / 2;
+}
+
+.c2 {
+  grid-column: 2 / 3;
+}
+
+.c3 {
+  grid-column: 3 / 4;
+}
+
+.c4 {
+  grid-column: 4 / 5;
+}
+
+.c5 {
+  grid-column: 5 / 6;
+}
+
+.c6 {
+  grid-column: 6 / 7;
+}
+
+.c7 {
+  grid-column: 7 / 8;
+}
+
+.c8 {
+  grid-column: 8 / 9;
+}
+
+.c9 {
+  grid-column: 9 / 10;
+}
+
+.cAll {
+  grid-column: 1 / 12;
+}
+
+.bline {
+  background-color: #dadada;
+  height: 2em;
+  grid-column: 1 / -1;
+}
+
+.proj {
+  background-color: #dadada;
+  border: solid 0.05em black;
+  font-size: 1.4em;
+  font-style: italic;
+  padding: 0.5em;
+  grid-column: 1 / -1;
+}
+
+.count {
+  color: hotpink;
+  margin: 1em 0 0 0;
+  font-size: 1.6em;
+  text-align: center;
+}
+
+.dwna::before {
+  content: '';
+  display: block;
+  border-bottom: 0.1em solid black;
+  margin: 1em auto;
+  width: 20%;
+}
+
+.highlight {
+  color: blue;
+  font-weight: bolder;
+}
+
+.dwna {
+  display: block;
+  text-align: center;
+}
+
+.dwn {
+  background-color: #ab56c4;
+  color: white;
+  font-size: 0.8em;
+  padding: 0.2em;
+}

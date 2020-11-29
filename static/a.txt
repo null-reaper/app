@@ -1,0 +1,569 @@
+<p class='c1 bor_1 cen pad_5'>1.1.1</p>
+<p class='c2 bor_1 pad_5'><i class=highlight>Earth</i> Work</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>Note:- measurement for Payment of excavation of RCC footings shall consider plan dimensions of the excavated pit determined by adding to each side of the footing 300mm on each face of the footing. Any excavation beyond the above mentioned dimention shalll not be considered for measurement of excavated pits of the RCC footings.
+i.e. for footing size (B x L) in plan the measurement of excavated pit shall be (B + 600mm) x (L + 600mm) x corresponding depth of excavation.
+
+Rate of Excavation shall also include cost of safety measures to be adopted while carrying out the work.
+
+Rate of excavation shall include cost of filling and making up of extra volume below desired depth of the footing pit by PCC or plum concrete. Neither extra excavation nor cost of making up of extra volume shall be paid for separately.</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>a</p>
+<p class='c2 bor_1 pad_5'>Excavation by mechanical means in ordinary soil, hard soil, soft rock without blasting, for foundations of buildings, basements, walls, columns, plinth beams, rafts, ducts, tanks,chambers and pipe trenches etc. Rate to Include shoring & strutting, bailing out surface water, pumping off water from excavated pits if required, removing and stacking  the excess excavated material as directed within the site, spreading, levelling, watering, rolling, testing and compacting it in 150mm to 200mm layers to 95% proctor density for site development etc. complete as per technical specifications, drawings and as directed. </p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>i</p>
+<p class='c2 bor_1 pad_5'>From existing Ground level up to 1.5 m deep</p>
+<p class='c3 bor_1 cen pad_5'>Cum</p>
+<p class='c4 bor_1 cen pad_5'>316.2</p>
+<p class='c5 bor_1 cen pad_5'>212</p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>ii</p>
+<p class='c2 bor_1 pad_5'>Below 1.5 m to 3 m depth</p>
+<p class='c3 bor_1 cen pad_5'>Cum</p>
+<p class='c4 bor_1 cen pad_5'>0</p>
+<p class='c5 bor_1 cen pad_5'>225</p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>b</p>
+<p class='c2 bor_1 pad_5'>Excavation in hard rock by wedging & chiselling or line drilling including dressing section to the required grade,  foundation trenches etc. Including shoring & strutting, bailing out surface water, pumping off water from excavated pits, if required. Refilling the trenches, foundation pits ramming, watering, consolidating in 150mm to 200mm layers, removing and stacking simultaneously the excavated stuff as directed within the site area up to a lead of 50M and/or spreading, watering, rolling and consolidating of <i class=highlight>earth</i> in 150mm to 200mm layers for site development within site battery limits,  etc.complete as per specification, Drawing & as directed.</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>i</p>
+<p class='c2 bor_1 pad_5'>From existing Ground level up to 1.5m level</p>
+<p class='c3 bor_1 cen pad_5'>Cum</p>
+<p class='c4 bor_1 cen pad_5'>210.8</p>
+<p class='c5 bor_1 cen pad_5'>550</p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>ii</p>
+<p class='c2 bor_1 pad_5'>Below 1.5 m to 3 m depth</p>
+<p class='c3 bor_1 cen pad_5'>Cum</p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>1.1.2</p>
+<p class='c2 bor_1 pad_5'>Filling Work</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>a</p>
+<p class='c2 bor_1 pad_5'>Backfilling the excavated volume around the concrete members with selected approved excavated <i class=highlight>earth</i> available on site in layers of 150mm, ramming, watering, compacting each layer to 95% proctor density etc. as directed, as per technical specifications and drawings. Rate to include transportation, loading, unloading, spreading, levelling, compacting, testing and all incidantal works etc. complete.  </p>
+<p class='c3 bor_1 cen pad_5'>Cum</p>
+<p class='c4 bor_1 cen pad_5'>173.111</p>
+<p class='c5 bor_1 cen pad_5'>54</p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>b</p>
+<p class='c2 bor_1 pad_5'>Filling in plinth with selected approved excavated <i class=highlight>earth</i> available on site in layers of 150mm to 200 mm, watering, ramming and compacting each layer to 95% proctor density using mechanical plate compactor, etc. complete as directed, as per technical specifications and drawings. Rate to include transportation, loading, unloading, spreading, levelling, compacting, testing and all incidantal works etc. complete.  </p>
+<p class='c3 bor_1 cen pad_5'>Cum</p>
+<p class='c4 bor_1 cen pad_5'>354</p>
+<p class='c5 bor_1 cen pad_5'>90</p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>c</p>
+<p class='c2 bor_1 pad_5'>Filling in plinth with selected approved excavated <i class=highlight>earth</i> brought from outside in layers of 150mm to 200 mm, watering, ramming and compacting each layer to 95% proctor density using mechanical plate compactor, etc. complete as directed, as per technical specifications and drawings. Rate to include royalty, taxes, transportation, loading, unloading, screening, spreading, levelling compacting, testing and all incidantal works etc. complete</p>
+<p class='c3 bor_1 cen pad_5'>Cum</p>
+<p class='c4 bor_1 cen pad_5'>2955</p>
+<p class='c5 bor_1 cen pad_5'>570</p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>d</p>
+<p class='c2 bor_1 pad_5'>Providing and laying in compact manner Granular Sub Base (GSB) of 200mm thickness as per drawing conforming to Grading- II of Table 400-1 (Close graded) below  foundations, plinth protection, Including filling in the visible voids with largest possible chips and sand, covering and levelling the surface with layer, well watered and consolidated by mechnical plate compactor etc.as per specifications.</p>
+<p class='c3 bor_1 cen pad_5'>Cum</p>
+<p class='c4 bor_1 cen pad_5'>5</p>
+<p class='c5 bor_1 cen pad_5'>1200</p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>2.1.3</p>
+<p class='c2 bor_1 pad_5'>Filling Work</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>a</p>
+<p class='c2 bor_1 pad_5'>Backfilling the excavated volume around the concrete members with selected approved excavated <i class=highlight>earth</i> available on site in layers of 150mm, ramming, watering, compacting each layer to 95% proctor density etc. as directed, as per technical specifications and drawings. Rate to include transportation, loading, unloading, spreading, levelling, compacting, testing and all incidantal works etc. complete.  </p>
+<p class='c3 bor_1 cen pad_5'>Cum</p>
+<p class='c4 bor_1 cen pad_5'>10</p>
+<p class='c5 bor_1 cen pad_5'>54</p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>b</p>
+<p class='c2 bor_1 pad_5'>Filling in plinth with selected approved excavated <i class=highlight>earth</i> available on site in layers of 150mm to 200 mm, watering, ramming and compacting each layer to 95% proctor density using mechanical plate compactor, etc. complete as directed, as per technical specifications and drawings. Rate to include transportation, loading, unloading, spreading, levelling, compacting, testing and all incidantal works etc. complete.  </p>
+<p class='c3 bor_1 cen pad_5'>Cum</p>
+<p class='c4 bor_1 cen pad_5'>22</p>
+<p class='c5 bor_1 cen pad_5'>90</p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>c</p>
+<p class='c2 bor_1 pad_5'>Filling in plinth with selected approved excavated <i class=highlight>earth</i> brought from outside in layers of 150mm to 200 mm, watering, ramming and compacting each layer to 95% proctor density using mechanical plate compactor, etc. complete as directed, as per technical specifications and drawings. Rate to include royalty, taxes, transportation, loading, unloading, screening, spreading, levelling compacting, testing and all incidantal works etc. complete</p>
+<p class='c3 bor_1 cen pad_5'>Cum</p>
+<p class='c4 bor_1 cen pad_5'>57</p>
+<p class='c5 bor_1 cen pad_5'>570</p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>d</p>
+<p class='c2 bor_1 pad_5'>Providing and laying in compact manner Granular Sub Base (GSB) of 200mm thickness as per drawing conforming to Grading- II of Table 400-1 (Close graded) below  foundations, plinth protection, Including filling in the visible voids with largest possible chips and sand, covering and levelling the surface with layer, well watered and consolidated by mechnical plate compactor etc.as per specifications.</p>
+<p class='c3 bor_1 cen pad_5'>Cum</p>
+<p class='c4 bor_1 cen pad_5'>19</p>
+<p class='c5 bor_1 cen pad_5'>1200</p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>2.2.1</p>
+<p class='c2 bor_1 pad_5'><i class=highlight>Earth</i> Work</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>Excavation by Mechanical Means</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'><i class=highlight>Earth</i>work in excavation for road way by mechanical means in <i class=highlight>earth</i> soil of all sorts sand, gravel, soft murum and hard murum, hard murum with boulders including dressing section to the required grade, camber and side slopes and conveying the excavated material with all lifts and lead and spreading for embankment or stacking, etc. as directed. (Clause 301 of MORTH)</p>
+<p class='c3 bor_1 cen pad_5'>Cum</p>
+<p class='c4 bor_1 cen pad_5'>494</p>
+<p class='c5 bor_1 cen pad_5'>116</p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>2.2.2</p>
+<p class='c2 bor_1 pad_5'><i class=highlight>Earth</i>work in Subgrade</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'><i class=highlight>Earth</i> work in embankment for subgrade and shoulders  by using mechanical  means with approved material obtained from borrow areas outside ROW having 4 days soaked CBR equal to or more than 8%, laying in layers not exceeding 250 mm loose, breaking clods, dressing to the required lines, curves, grades, watering to OMC and compacting to 97% modified Proctor density with vibratory rollers having minimum 80 - 100 KN  static weight including all leads and lifts etc. complete. (Clause 305 of MORTH)</p>
+<p class='c3 bor_1 cen pad_5'>Cum</p>
+<p class='c4 bor_1 cen pad_5'>494</p>
+<p class='c5 bor_1 cen pad_5'>399</p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>7</p>
+<p class='c2 bor_1 pad_5'>BUS DUCT (SANDWITCH TYPE) (INDOOR TYPE)</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>Design, supply, installation, testing and commissioning of Electro galvanised steel enclosure  following rating TPN Al sandwitch type Bus Duct, 3 phase, 4 wire with neutral 50% of phase rating (IP-54) suitable for indoor installation with integral <i class=highlight>earth</i>  including connecting the bus duct with terminal flanges along with all accessories as required complete including expansion joints as per manufacturer recommendation, phase crossover, busbar supports, insulating materials, all mounting accessories, necessary steel support structure, down rods, dash fasteners etc. complete as required and as per  specifications.</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>9</p>
+<p class='c2 bor_1 pad_5'>LIGHTING DISTRIBUTION BOARDS</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>To Supply install, test and commission following wall mounted IP-54, double door, 2 mm thick Power caoted  switch boards panels with MCCB, MCBs, , Enclosure, Busbar, long neutral bus, sheet steel enclosure, wiring, <i class=highlight>earth</i> bus, necessary accessories etc. 
+All the MCB's/ELCB's/RCBO's shall be 15kA 'B" Curve type and all the RCBO shall be 30/100mA senstivity as per respective lighting panel schedule given in repsective lighting layout
+The Busbar/wires/connecting cables shall be 100A Copper material sutiable for fault current of 15kA for 1 sec.</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>10</p>
+<p class='c2 bor_1 pad_5'>POWER DISTRIBUTION BOARDS</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>To Supply, install, test and  commission following wall/structural mounted  IP-54, 2mm thick sheet steel Powder coated power distribution switchboards with double door, It include with MCCB, MCBS, enclosure, wiring, busbar, long neutral busbar, <i class=highlight>earth</i> busbar, necessary accessories etc.
+All the MCB's/RCBO's shall be 15kA 'C" Curve tyep and all the RCBO shall be 100mA senstivity
+The Busbar/wires/connecting cables shall be 30A/100A Copper material sutiable for fault current of 15kA for 1 sec.</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>12.1</p>
+<p class='c2 bor_1 pad_5'>Wiring for Light Points Directly Controlled from DBs</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>Supply, installation, connection, testing & commissioning of following outlet points as per Specification & IS. The unit rate for the point shall consist of the circuit wiring from LDB  to outlet point through MCB as required & including the outlet points with connector & sockets. A point shall include in addition to phase & neutral wire, <i class=highlight>earth</i> continuity wire from LDB to the final termination at outlet points. All the wiring, outlet points shall be done in a surface / concealed manner with ISI approved medium duty, rigid FR PVC, ISI conduit of minimum 25 mm. dia. using 650 V FRLS copper conductor wire. Supply and installation of front suitable plate, PVC back box with brass chromium / cadmium  plated  machine screws etc. shall be part of job.</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>Cost of MCB shall not be considered in point rate.</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>Wire Size:</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>Phase & Neutral : 2.5 mm2 Cu FRLS flexible wire (650 V)</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'><i class=highlight>Earth</i> : 2.5 mm2 Cu FRLS flexible wire (650 V)</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>Average Circuit Length:</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>From LDB to Primary Light Point : 15 MTR.</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>From Primary Point to Secondary Light Point: 5 MTR.</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>12.2</p>
+<p class='c2 bor_1 pad_5'>Wiring for Light Points Controlled from Switch Boards</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>Supply, installation, connection, testing & commissioning of following outlet points as per Specification & IS. The unit rate for the point shall consist of the circuit wiring from LDB and/or switch board to outlet point through MCB / switch as required & including the outlet points with connector & sockets. A point shall include in addition to phase & neutral wire, <i class=highlight>earth</i> continuity wire from LDB to the final termination at outlet points.All the wiring, outlet points shall be done in a surface / concealed manner with ISI approved medium duty, rigid FR PVC, ISI conduit of minimum 25 mm. dia. using 650 V FRLS copper conductor wire. Supply and installation of Modular switches with suitable plate, PVC back box with brass chromium / cadmium  plated  machine screws etc. shall be part of job.</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>Cost of MCB shall not be considered in point rate.</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>Wire Size:</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>Phase & Neutral : 2.5 mm2 Cu FRLS flexible wire (650 V)</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'><i class=highlight>Earth</i> : 1.5 mm2 Cu FRLS flexible wire (650 V)</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>Offwire size = 1.0 sqmm (P+N+E)</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>Average Circuit Length:</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>From LDB to Primary SB: 25 MTR.</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>From Primary to Secondary SB: 15 MTR.</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>From SB to Primary Light Point: 5 MTR.</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>From Primary to Secondary Light  Point: 5 MTR.</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'>12.3</p>
+<p class='c2 bor_1 pad_5'>Wiring for Raw Power Points</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>Supply, laying, connection and testing of raw power socket wiring from PDB to raw power point with following wires to be laid through electrical channel / floor raceway / PVC condiut in concealed/surface manner. (cost of Channel / raceway not to be included in their rate.)</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>Cost of MCB shall not be considered in point rate.</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>Wire Size:</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'>Phase & Neutral : 4.0 mm2 Cu FRLS flexible wire (650 V)</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+
+<p class='c1 bor_1 cen pad_5'></p>
+<p class='c2 bor_1 pad_5'><i class=highlight>Earth</i> : 2.5 mm2 Cu FRLS flexible wire wire (650 V)</p>
+<p class='c3 bor_1 cen pad_5'></p>
+<p class='c4 bor_1 cen pad_5'></p>
+<p class='c5 bor_1 cen pad_5'></p>
+<p class='c6 bor_1 cen pad_5'></p>
+<p class='c7 bor_1 cen pad_5'></p>
+<p class='c8 bor_1 cen pad_5'></p>
+<p class='c9 bor_1 cen pad_5'></p>
+

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Cost Database Search Tool</title>
+    <link rel="stylesheet" href="static/styles.css">
+  </head>
+  <body>
+    <h1>Cost Database Search Tool</h1>
+    <main>
+      <article id="search">
+        <section id="search-box">
+          <form class="" action="search" method="post">
+            <input id="query-box" type="text" name="query" value="">
+            <button id="search-button" type="submit" name="button">Search</button>
+          </form>
+        </section>
+        {{count}}
+        {{download}}
+        <section id="search-results">
+          <h2 class='c1 bor_1 cen'>Item No.</h2>
+          <h2 class='c2 bor_1 cen'>Description</h2>
+          <h2 class='c3 bor_1 cen'>Unit</h2>
+          <h2 class='c4 bor_1 cen'>Quantity</h2>
+          <h2 class='c5 bor_1 cen'>Unit Rate</h2>
+          <!--h2 class='c6 bor_1 cen'>Project</h2-->
+          <h2 class='c6 bor_1 cen'>Location</h2>
+          <h2 class='c7 bor_1 cen'>Client</h2>
+          <h2 class='c8 bor_1 cen'>Start Year</h2>
+          <h2 class='c9 bor_1 cen'>End Year</h2>
+          {{results}}
+        </section>
+      </article>
+    </main>
+
+  </body>
+</html>
